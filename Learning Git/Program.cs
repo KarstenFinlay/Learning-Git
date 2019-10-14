@@ -12,6 +12,8 @@ namespace Learning_Git
 
             Console.WriteLine("Maths");
 
+            Console.WriteLine("English");
+
         }
     }
 
