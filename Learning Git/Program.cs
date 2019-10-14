@@ -10,6 +10,8 @@ namespace Learning_Git
 
             Console.WriteLine("NewCode");
 
+            Console.WriteLine("Maths");
+
         }
     }
 
